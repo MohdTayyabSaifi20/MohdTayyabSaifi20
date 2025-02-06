@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/arnav_yt" target="blank"><img src="https://img.shields.io/twitter/follow/arnav_yt?logo=twitter&style=for-the-badge" alt="arnav_yt" /></a> </p>
 
-- 🔭 I’m currently working on **ANDROID DEVELOPMENT**
+- 🔭 I’m currently working on **AUTOMATION**
 
-- 🌱 I’m currently learning **React Native, Flutter, Dart**
+- 🌱 I’m currently learning **Selenium, Core Java**
 
 - 👯 I’m looking to collaborate on **Startup that needs of Full stack Developer**
 
