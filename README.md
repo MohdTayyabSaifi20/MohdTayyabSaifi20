@@ -8,19 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/arnav_yt" target="blank"><img src="https://img.shields.io/twitter/follow/arnav_yt?logo=twitter&style=for-the-badge" alt="arnav_yt" /></a> </p>
 
-- 🔭 I’m currently working on **AUTOMATION**
+- 🔭 Currently working as a Quality Assurance Engineer, ensuring high-quality software through manual and automation testing.
+  
+- 🌱 Actively learning Advanced Playwright with AI integration to build next-generation automation solutions.
+  
+- 👯 Open to collaborating on QA Automation, and AI-based projects.
 
-- 🌱 I’m currently learning **Selenium, Core Java**
-
-- 👯 I’m looking to collaborate on **Startup that needs of Full stack Developer**
-
-- 🤝 I’m looking for help with **Job,Internship**
-
-- 💬 Ask me about **Python, Java, MERN**
-
-- 📫 How to reach me **mohdtayyabh39@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny**
+- 🤝 Seeking opportunities in Software Testing, SDET, or Full-Stack Development roles.
+  
+- 💬 Skilled in Python, Java, Software Testing and Automation — feel free to connect or discuss tech ideas.
+  
+- 📫 Reach me at mohdtayyabh39@gmail.com
+  
+- ⚡ Fun fact: I enjoy adding a bit of humor while solving serious tech problems 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
