@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/arnav_yt" target="blank"><img src="https://img.shields.io/twitter/follow/arnav_yt?logo=twitter&style=for-the-badge" alt="arnav_yt" /></a> </p>
 
-- 🔭 Currently working as a Quality Assurance Engineer, ensuring high-quality software through manual and automation testing.
+- 🔭 Quality Assurance Engineer, ensuring high-quality software through manual and automation testing.
   
-- 🌱 Actively learning Advanced Playwright with AI integration to build next-generation automation solutions.
+- 🌱 Actively learning Advanced Automation with AI integration to build next-generation automation solutions.
   
 - 👯 Open to collaborating on QA Automation, and AI-based projects.
 
